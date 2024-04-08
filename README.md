@@ -1,3 +1,18 @@
+# NotesSharing_webApp_NM_FullStackPDjango_Project
+
+Project Developed by: FAISAL M U
+
+
+Regnumber :720921244016
+college name: JCT COLLEGE OF ENGINEERING AND TECHNOLOGY COIMBATORE
+
+
+Login credentials:
+
+
+Username: admin
+
+Password: admin
 # django-notesapp
 Notes Sharing App using django(python framework)
 
